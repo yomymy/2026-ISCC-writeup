@@ -1,2 +1,2 @@
 # 2026-ISCC-writeup
-CTF各类比赛Write Up
+区域赛及总决赛部分writeup
